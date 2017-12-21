@@ -16,7 +16,8 @@
 
 # 面试要点
 
-### interface和abstract的区别
+- [x] ### interface和abstract的区别
+
 
 两者都不是实体是一种抽象，根据名字翻译：interface是接口类，abstract是抽象类。
 
@@ -32,11 +33,11 @@
 * 设计理念不同：interface类表示的是“like-a”关系，abstract类表示的是“is-a”关系
 
 
-***-***
+------
 
 
 
-### Java中4种访问修饰符
+- [x] ### Java中4种访问修饰符
 
 如果一个类、类属变量及方法没有用任何修饰符（即没有用public、protected及private中任何一种修饰），则其访问权限为**default/friendly（默认访问权限）**,但是并**不存在default/friendly这样的关键字**。
 
@@ -52,14 +53,15 @@
 * protected属于子类限制修饰符，而default属于包限制修饰符。
 
 
-***-***
+------
 
 
-### 继承与组合的区别
+
+- [x] ### 继承与组合的区别
 
 占坑
 
-***-***
+------
 
 
 
@@ -74,3 +76,5 @@
 [抽象类abstract和接口interface的区别与深入思考](http://blog.csdn.net/wujiaxian/article/details/39991395)
 
 [继承与组合的区别](http://blog.csdn.net/gvinaxu/article/details/51731202)
+
+[详解继承与组合的优缺点](http://blog.csdn.net/calllmq/article/details/7399824)
