@@ -37,7 +37,7 @@
 
 
 
-- [x] ### Java中4种访问修饰符
+* [x] ### Java中4种访问修饰符
 
 如果一个类、类属变量及方法没有用任何修饰符（即没有用public、protected及private中任何一种修饰），则其访问权限为**default/friendly（默认访问权限）**,但是并**不存在default/friendly这样的关键字**。
 
